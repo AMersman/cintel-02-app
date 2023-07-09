@@ -1,6 +1,6 @@
 # Continuous Intelligence and Interactive Analytics - Initial App
 
-- Interactive app: [cintel-02-app](https://amersman.shinyapps.io/cintel-02-app/)
+- Interactive app: [cintel-02-app](https://https://amersman.shinyapps.io/cintel-02-app1/)
 - Repository: [cintel-02-app](https://github.com/amersman/cintel-02-app)
 - Author: [Ashley Mersman](https://github.com/amersman)
 
